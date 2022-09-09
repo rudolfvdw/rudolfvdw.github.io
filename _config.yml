@@ -1,9 +1,10 @@
 title: Rudolf van der Walt # your name (or website title) here
-logo: "/images/Rudolfvdw.jpg?raw=true" # your photo (or logo) here
+logo: "/images/Rudolfvdw.jpg" # your photo (or logo) here ,?raw=true
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  B.Comm(Math & Stats)<br>
-  B.Hons(Financial Engineering)<br>  
-  M.Comm(Risk) 
+  <br>
+  B.Comm (Math & Stats)<br>
+  B.Hons (Financial Engineering)<br>  
+  M.Comm (Risk) 
   <br><br>
   Post Graduate Data Science (in process)
   <br><br>
